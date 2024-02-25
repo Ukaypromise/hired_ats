@@ -11,3 +11,5 @@ mrujs.start({
         new CableCar(CableReady)
     ]
 })
+
+CableReady.initialize({ consumer })
